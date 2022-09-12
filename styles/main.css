@@ -1,0 +1,64 @@
+.main-section{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.subtitle{
+    text-align: center;
+    font-family: var(--montserrat);
+    color: var(--title-color);
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 1.22;
+}
+
+.list{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.list-item{
+    margin-top: 27px;
+    width: 220px;
+}
+
+.photo{
+    width: 120px;
+}
+
+.pearson-name{
+    margin-top: 13px;
+    font-family: var(--montserrat);
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.21;
+    color: var(--title-color);
+}
+
+.about-pearson{
+    margin-top: 13px;
+    font-family: var(--roboto);
+    color: var(--text-color);
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 1.17;
+}
+
+.button2{
+    margin: 0 auto;
+    display: block;
+    font-family: var(--montserrat);
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.21;
+    color: var(--button-color);
+    background-color: var(--white-color);
+    padding: 12px 60px;
+    border: 2px solid var(--button-color);
+    border-radius: 50px;
+
+}
